@@ -21,11 +21,6 @@
 					<span>密　码：</span>
 					<input type="password" name="password" class="login_input">
 				</li>
-				<li class="login-item verify">
-					<span>验证码：</span>
-					<input type="text" name="CheckCode" class="login_input verify_input">
-				</li>
-				<img src="images/verify.png" border="0" class="verifyimg" />
 				<div class="clearfix"></div>
 				<li class="login-sub">
 					<input type="submit" name="Submit" value="登录" />
